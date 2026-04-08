@@ -1,0 +1,181 @@
+Route ID,Day,Technician,Area Code,Area,Job ID,Address,Category,Days Old,Flags,Status,Reason
+MON-JOVAN-14,Monday,Jovan Lopez,14,Boston,19528,"496 East Broadway Boston, Boston MA 02127",Estimate,10,Priority,ACTIVE,Monday — Priority
+MON-JOVAN-14,Monday,Jovan Lopez,14,Boston,19564,"17 Ericsson Street, Apt 2 Cambridge MA 02138",Boiler Maintenance,5,Priority,ACTIVE,Monday — Priority
+MON-JOVAN-14,Monday,Jovan Lopez,14,Boston,19580,"61 Quint Ave, #7 Allston MA 02134",Steam System Inspection,2,Priority,ACTIVE,Monday — Priority
+MON-JOVAN-14,Monday,Jovan Lopez,14,Boston,17217,154 Maverick Street East Boston MA 02128,Boiler Maintenance,250,Age Critical,ACTIVE,Monday — Age Critical
+MON-JOVAN-14,Monday,Jovan Lopez,14,Boston,19009,308 Commonwealth Avenue Boston MA 02115,Steam System Inspection,44,,ACTIVE,Monday
+MON-JOVAN-14,Monday,Jovan Lopez,14,Boston,19038,233 Commonwealth Avenue Unit 6 Boston MA 02116,Steam System Inspection,38,,ACTIVE,Monday
+MON-JOVAN-14,Monday,Jovan Lopez,14,Boston,19040,188 Wachusett St Jamaica Plain MA 02130,Radiator Refinishing,38,,ACTIVE,Monday
+MON-JOVAN-14,Monday,Jovan Lopez,14,Boston,19122,224 Aspinwall Ave Brookline MA 02446,Boiler Maintenance,31,,ACTIVE,Monday
+MON-JOVAN-14,Monday,Jovan Lopez,14,Boston,19233,"427 Putnam Ave. Cambridge,  MA 02139",Boiler Maintenance,29,,STANDBY,Standby for MON-JOVAN-14 — fires if active job cancels
+MON-JOVAN-14,Monday,Jovan Lopez,14,Boston,19203,20 Seymour Street Unit 1 Roslindale   A  2131,Boiler Maintenance,29,,STANDBY,Standby for MON-JOVAN-14 — fires if active job cancels
+MON-NICK-16,Monday,Nick Lester,16,NH Seacoast,19174,33 Fisher Street Dover NH 03820,Steam System Inspection,30,Priority,ACTIVE,Monday — Priority
+MON-NICK-16,Monday,Nick Lester,16,NH Seacoast,19230,44 Wilder Street Keene NH 03431,Boiler Maintenance,29,Priority,ACTIVE,Monday — Priority
+MON-NICK-16,Monday,Nick Lester,16,NH Seacoast,19463,53 Berkley Street Bethlehem NH 03574,Boiler Maintenance,18,Priority,ACTIVE,Monday — Priority
+MON-NICK-16,Monday,Nick Lester,16,NH Seacoast,19506,8 Wilson St Somersworth NH 03878,Steam System Inspection,14,Priority,ACTIVE,Monday — Priority
+MON-NICK-16,Monday,Nick Lester,16,NH Seacoast,16831,485 Union St Portsmouth NH 03801,Boiler Maintenance,311,Age Critical,ACTIVE,Monday — Age Critical
+MON-NICK-16,Monday,Nick Lester,16,NH Seacoast,17234,"2270 Main Street Bethlehem, Bethlehem NH 03580",Boiler Maintenance,246,Age Critical,ACTIVE,Monday — Age Critical
+MON-NICK-16,Monday,Nick Lester,16,NH Seacoast,17259,137 Highland Street Laconia NH 03246,Steam System Inspection,240,Age Critical,ACTIVE,Monday — Age Critical
+MON-NICK-16,Monday,Nick Lester,16,NH Seacoast,17273,390 Hawthorne St Manchester NH 03104,Steam System Inspection,238,Age Critical,ACTIVE,Monday — Age Critical
+MON-NICK-16,Monday,Nick Lester,16,NH Seacoast,17715,1 Riverside Way Wilton NH 03086,Boiler Maintenance,178,,STANDBY,Standby for MON-NICK-16 — fires if active job cancels
+MON-NICK-16,Monday,Nick Lester,16,NH Seacoast,17794,296 Mountain View Rd Whitefield NH 03598,Boiler Maintenance,172,,STANDBY,Standby for MON-NICK-16 — fires if active job cancels
+MON-PATRICK-01,Monday,Patrick Hanson,01,Providence RI,18689,54 Lowden St Pawtucket RI 02860,Boiler Maintenance,78,Age Critical,ACTIVE,Monday — Age Critical
+MON-PATRICK-01,Monday,Patrick Hanson,01,Providence RI,18924,31 Bowen St Rumford RI 02916,Radiator Refinishing,56,Age Critical,ACTIVE,Monday — Age Critical
+MON-PATRICK-01,Monday,Patrick Hanson,01,Providence RI,19035,"43 Armistice Blvd Pawtucket, Pawtucket RI 02860",Service Call,38,,ACTIVE,Monday
+MON-PATRICK-01,Monday,Patrick Hanson,01,Providence RI,19100,140 Shaw Avenue Cranston RI 02905,Service Call,32,,ACTIVE,Monday
+MON-PATRICK-01,Monday,Patrick Hanson,01,Providence RI,19109,24 Wood St Providence RI 02909,Boiler Maintenance,31,,ACTIVE,Monday
+MON-PATRICK-01,Monday,Patrick Hanson,01,Providence RI,19207,26 Alfred Stone Rd Providence RI 02906-5011,Boiler Maintenance,29,,ACTIVE,Monday
+MON-PATRICK-01,Monday,Patrick Hanson,01,Providence RI,19252,37 Clearwater St Warwick RI 02888,Boiler Maintenance,29,,ACTIVE,Monday
+MON-PATRICK-01,Monday,Patrick Hanson,01,Providence RI,19223,24 Doylston Dr Cranston RI 02905,Boiler Maintenance,29,,ACTIVE,Monday
+MON-PATRICK-01,Monday,Patrick Hanson,01,Providence RI,19217,201 Pitman Street Providence RI 02906,Boiler Maintenance,29,,STANDBY,Standby for MON-PATRICK-01 — fires if active job cancels
+MON-PATRICK-01,Monday,Patrick Hanson,01,Providence RI,19237,3 Fairview Ave. Cranston RI 02905,Boiler Maintenance,29,,STANDBY,Standby for MON-PATRICK-01 — fires if active job cancels
+MON-RANNY-09,Monday,Ranny Lim,09,Newton / Westwood,19556,44 Hobart Road Newton MA 02459,Steam System Inspection,7,Priority,ACTIVE,Monday — Priority
+MON-RANNY-09,Monday,Ranny Lim,09,Newton / Westwood,17092,"5 Oxford Road Westwood,  MA 02090",Estimate,269,Age Critical,ACTIVE,Monday — Age Critical
+MON-RANNY-09,Monday,Ranny Lim,09,Newton / Westwood,19221,"5 Bemis Road Wellesley Hills,  MA 02481",Boiler Maintenance,29,,ACTIVE,Monday
+MON-RANNY-09,Monday,Ranny Lim,09,Newton / Westwood,19258,"12 Whiting Road Wellesley Hills,  MA 02481",Boiler Maintenance,29,,ACTIVE,Monday
+MON-RANNY-09,Monday,Ranny Lim,09,Newton / Westwood,19281,236 Dover Road Westwood MA 02090,Boiler Maintenance,28,,ACTIVE,Monday
+MON-RANNY-09,Monday,Ranny Lim,09,Newton / Westwood,19273,"95 River Ridge Wellesley Hills,  MA 02481",Boiler Maintenance,28,,ACTIVE,Monday
+MON-RANNY-09,Monday,Ranny Lim,09,Newton / Westwood,19379,224 Vernon St Norwood MA 02062,Boiler Maintenance,26,,ACTIVE,Monday
+MON-RANNY-09,Monday,Ranny Lim,09,Newton / Westwood,19376,38 Arapahoe Road Newton MA 02465,Boiler Maintenance,26,,ACTIVE,Monday
+MON-RANNY-09,Monday,Ranny Lim,09,Newton / Westwood,19407,41 Pearl Street Newton MA 02458,Boiler Maintenance,24,,STANDBY,Standby for MON-RANNY-09 — fires if active job cancels
+MON-RANNY-09,Monday,Ranny Lim,09,Newton / Westwood,19403,152 North St Medfield MA 02052,Boiler Maintenance,24,,STANDBY,Standby for MON-RANNY-09 — fires if active job cancels
+TUE-JOVAN-04,Tuesday,Jovan Lopez,04,Worcester MA,18937,15 Newburn Road Worcester MA 01602,Boiler Maintenance,54,,ACTIVE,Tuesday
+TUE-JOVAN-04,Tuesday,Jovan Lopez,04,Worcester MA,19107,32 Baxter St Worcester MA 01602,Boiler Maintenance,32,,ACTIVE,Tuesday
+TUE-JOVAN-04,Tuesday,Jovan Lopez,04,Worcester MA,19106,"32 Baxter Street Worcester,  Worcester MA 01602",Boiler Maintenance,32,,ACTIVE,Tuesday
+TUE-JOVAN-04,Tuesday,Jovan Lopez,04,Worcester MA,19278,112 Smith Road Charlton MA 01507,Boiler Maintenance,28,,ACTIVE,Tuesday
+TUE-JOVAN-04,Tuesday,Jovan Lopez,04,Worcester MA,19307,289 9th Avenue Woonsocket RI 02895,Boiler Maintenance,28,,ACTIVE,Tuesday
+TUE-JOVAN-04,Tuesday,Jovan Lopez,04,Worcester MA,19426,8 Catalpa St Worcester MA 01603,New Boiler Installation,22,,ACTIVE,Tuesday
+TUE-JOVAN-04,Tuesday,Jovan Lopez,04,Worcester MA,19445,3 1/2 Karen Ann Drive Smithfield RI 02917,Boiler Maintenance,21,,ACTIVE,Tuesday
+TUE-JOVAN-04,Tuesday,Jovan Lopez,04,Worcester MA,19458,"7 Smith Street Lincoln, Lincoln RI 02865",Castrads New Radiator(s),19,,ACTIVE,Tuesday
+TUE-JOVAN-04,Tuesday,Jovan Lopez,04,Worcester MA,19507,43 Franklin Street Leicester MA 01524,Boiler Maintenance,14,,STANDBY,Standby for TUE-JOVAN-04 — fires if active job cancels
+TUE-JOVAN-04,Tuesday,Jovan Lopez,04,Worcester MA,19565,30 Walnut St  Shrewsbury   A  1545,Go Back,5,,STANDBY,Standby for TUE-JOVAN-04 — fires if active job cancels
+TUE-NICK-15,Tuesday,Nick Lester,15,North Shore MA,19102,57 Ord Street Salem MA 01970,Boiler Maintenance,32,Priority,ACTIVE,Tuesday — Priority
+TUE-NICK-15,Tuesday,Nick Lester,15,North Shore MA,19551,33 Plymouth Ave Swampscott MA 01907,Steam System Inspection,8,Priority,ACTIVE,Tuesday — Priority
+TUE-NICK-15,Tuesday,Nick Lester,15,North Shore MA,19575,"185 Marlborough Road Salem, Salem MA 01970",Boiler Maintenance,3,Priority,ACTIVE,Tuesday — Priority
+TUE-NICK-15,Tuesday,Nick Lester,15,North Shore MA,18179,"3 Berkeley Avenue Haverhill, Haverhill MA 01830",Estimate,135,Age Critical,ACTIVE,Tuesday — Age Critical
+TUE-NICK-15,Tuesday,Nick Lester,15,North Shore MA,18460,19 Briscoe St Beverly MA 01915,Boiler Maintenance,107,Age Critical,ACTIVE,Tuesday — Age Critical
+TUE-NICK-15,Tuesday,Nick Lester,15,North Shore MA,19154,39 Beacon St Gloucester MA 01930,Steam System Inspection,30,,ACTIVE,Tuesday
+TUE-NICK-15,Tuesday,Nick Lester,15,North Shore MA,19380,"76 Sargent St  Winthrop ,   a  2152",Boiler Maintenance,26,,ACTIVE,Tuesday
+TUE-NICK-15,Tuesday,Nick Lester,15,North Shore MA,19385,"185 Marlborough Road Salem, Salem MA 01970",Boiler Maintenance,26,,ACTIVE,Tuesday
+TUE-NICK-15,Tuesday,Nick Lester,15,North Shore MA,19386,"9 Liberty St Ipswich,  Ipswich MA 01938",Vent / Trap / Repair,25,,STANDBY,Standby for TUE-NICK-15 — fires if active job cancels
+TUE-NICK-15,Tuesday,Nick Lester,15,North Shore MA,19492,5 Pearl Ave #3 Winthrop MA 02152,Radiator Refinishing,16,,STANDBY,Standby for TUE-NICK-15 — fires if active job cancels
+TUE-PATRICK-11,Tuesday,Patrick Hanson,11,Medford / Malden,19294,86 Winthrop St Medford MA 02155,Boiler Maintenance,28,Priority,ACTIVE,Tuesday — Priority
+TUE-PATRICK-11,Tuesday,Patrick Hanson,11,Medford / Malden,13955,8 Sterling St Malden MA 02148,Boiler Maintenance,665,Age Critical,ACTIVE,Tuesday — Age Critical
+TUE-PATRICK-11,Tuesday,Patrick Hanson,11,Medford / Malden,17740,82 Bowen Ave Medford MA 02155,Boiler Maintenance,176,,ACTIVE,Tuesday
+TUE-PATRICK-11,Tuesday,Patrick Hanson,11,Medford / Malden,18706,5 Crescent Ave Stoneham MA 02180,Steam System Inspection,75,,ACTIVE,Tuesday
+TUE-PATRICK-11,Tuesday,Patrick Hanson,11,Medford / Malden,19225,86a Quincy St Medford MA 02155,Boiler Maintenance,29,,ACTIVE,Tuesday
+TUE-PATRICK-11,Tuesday,Patrick Hanson,11,Medford / Malden,19201,60 Monmouth Ave Medford MA 02155,Boiler Maintenance,29,,ACTIVE,Tuesday
+TUE-PATRICK-11,Tuesday,Patrick Hanson,11,Medford / Malden,19290,18 Glen Rd Winchester MA 01890,Boiler Maintenance,28,,ACTIVE,Tuesday
+TUE-PATRICK-11,Tuesday,Patrick Hanson,11,Medford / Malden,19352,12 Lilly St. Malden MA 04330,Boiler Maintenance,27,,ACTIVE,Tuesday
+TUE-PATRICK-11,Tuesday,Patrick Hanson,11,Medford / Malden,19361,"14 Vista Avenue Medford,  MA 02155",Boiler Maintenance,27,,STANDBY,Standby for TUE-PATRICK-11 — fires if active job cancels
+TUE-PATRICK-11,Tuesday,Patrick Hanson,11,Medford / Malden,19534,137 East Foster Street Melrose MA 02176,Steam System Inspection,9,,STANDBY,Standby for TUE-PATRICK-11 — fires if active job cancels
+TUE-RANNY-10,Tuesday,Ranny Lim,10,Lexington / Arlington,18558,"22 Eliot Road Lexington, Lexington MA 02421",Radiator Service,93,Age Critical,ACTIVE,Tuesday — Age Critical
+TUE-RANNY-10,Tuesday,Ranny Lim,10,Lexington / Arlington,18902,192 Concord Road Lincoln MA 01773,Boiler Maintenance,58,,ACTIVE,Tuesday
+TUE-RANNY-10,Tuesday,Ranny Lim,10,Lexington / Arlington,19097,1521 Massachusetts Ave Arlington MA 02476,Steam System Inspection,32,,ACTIVE,Tuesday
+TUE-RANNY-10,Tuesday,Ranny Lim,10,Lexington / Arlington,19236,"35 Chester Rd Apt. 2 Belmont,  MA 02478",Boiler Maintenance,29,,ACTIVE,Tuesday
+TUE-RANNY-10,Tuesday,Ranny Lim,10,Lexington / Arlington,19239,"38 Sunset Rd, Arlington, MA 0  47 , USA",Boiler Maintenance,29,,ACTIVE,Tuesday
+TUE-RANNY-10,Tuesday,Ranny Lim,10,Lexington / Arlington,19235,35 Alpine Street Arlington MA 02474,Boiler Maintenance,29,,ACTIVE,Tuesday
+TUE-RANNY-10,Tuesday,Ranny Lim,10,Lexington / Arlington,19354,"8 Locust Avenue  Lexington,   A  2421",Boiler Maintenance,27,,ACTIVE,Tuesday
+TUE-RANNY-10,Tuesday,Ranny Lim,10,Lexington / Arlington,19497,48 Porter Road Waltham MA 02452,Boiler Maintenance,15,,ACTIVE,Tuesday
+TUE-RANNY-10,Tuesday,Ranny Lim,10,Lexington / Arlington,19585,40 Spring St Lexington MA 02421,Steam System Inspection,1,,STANDBY,Standby for TUE-RANNY-10 — fires if active job cancels
+TUE-RANNY-10,Tuesday,Ranny Lim,03,Plymouth MA,19240,"1 Klondike Rd Avon,  MA 02322",Boiler Maintenance,29,Priority,STANDBY,Standby for TUE-RANNY-10 — fires if active job cancels
+WED-JOVAN-02,Wednesday,Jovan Lopez,02,South Coast MA,19279,"8 Fort Street  Fairhaven,   A  2719",Boiler Maintenance,28,,ACTIVE,Wednesday
+WED-JOVAN-02,Wednesday,Jovan Lopez,02,South Coast MA,19364,"89 Crown Ave Riverside,   RI 02915",Boiler Maintenance,27,,ACTIVE,Wednesday
+WED-JOVAN-02,Wednesday,Jovan Lopez,02,South Coast MA,19377,"99 Brigham St New Bedford,  New Bedford MA 02740",Boiler Maintenance,26,,ACTIVE,Wednesday
+WED-JOVAN-02,Wednesday,Jovan Lopez,02,South Coast MA,19434,192 Church St Barrington   I  2806,Boiler Maintenance,22,,ACTIVE,Wednesday
+WED-JOVAN-02,Wednesday,Jovan Lopez,02,South Coast MA,19542,"47 Prospect St Dartmouth,  MA 02748",Boiler Maintenance,9,,ACTIVE,Wednesday
+WED-JOVAN-02,Wednesday,Jovan Lopez,02,South Coast MA,19539,217 Washington Rd Barrington RI 02806,Steam System Inspection,9,,ACTIVE,Wednesday
+WED-JOVAN-02,Wednesday,Jovan Lopez,02,South Coast MA,19540,217 Washington Rd Barrington RI 02806,Boiler Maintenance,9,,ACTIVE,Wednesday
+WED-JOVAN-02,Wednesday,Jovan Lopez,16,NH Seacoast,17911,44 Union St. Keene NH 03431,Steam System Inspection,159,,STANDBY,Standby for WED-JOVAN-02 — fires if active job cancels
+WED-JOVAN-02,Wednesday,Jovan Lopez,16,NH Seacoast,18021,86 Main St Peterborough NH 03458,Boiler Maintenance,149,,STANDBY,Standby for WED-JOVAN-02 — fires if active job cancels
+WED-NICK-07,Wednesday,Nick Lester,07,MetroWest MA,19248,164 Main St Franklin MA 02038,Boiler Maintenance,29,Priority,ACTIVE,Wednesday — Priority
+WED-NICK-07,Wednesday,Nick Lester,07,MetroWest MA,19552,"St. Luke's Church 5 Washington St Hudson,  MA 01749",Boiler Maintenance,8,Priority,ACTIVE,Wednesday — Priority
+WED-NICK-07,Wednesday,Nick Lester,07,MetroWest MA,19146,16 Brown St Maynard MA 01754,Boiler Maintenance,30,,ACTIVE,Wednesday
+WED-NICK-07,Wednesday,Nick Lester,07,MetroWest MA,19208,"204 Berlin St, Clinton,  MA 01510",Boiler Maintenance,29,,ACTIVE,Wednesday
+WED-NICK-07,Wednesday,Nick Lester,07,MetroWest MA,19329,8 East Main St Westborough MA 01581,Boiler Maintenance,28,,ACTIVE,Wednesday
+WED-NICK-07,Wednesday,Nick Lester,07,MetroWest MA,19358,15 Boudreau Avenue Marlborough MA 01752,Boiler Maintenance,27,,ACTIVE,Wednesday
+WED-NICK-07,Wednesday,Nick Lester,07,MetroWest MA,19468,"15 Lincoln Street Westborough, Westborough MA 01581",Castrads New Radiator(s),18,,ACTIVE,Wednesday
+WED-NICK-07,Wednesday,Nick Lester,07,MetroWest MA,19490,"328 Chestnut St. Clinton,  Clinton MA 01510",Boiler Maintenance,16,,ACTIVE,Wednesday
+WED-NICK-07,Wednesday,Nick Lester,13,North Central MA,19573,141 Walton St Fitchburg MA 01420,Boiler Maintenance,3,Priority,STANDBY,Standby for WED-NICK-07 — fires if active job cancels
+WED-NICK-07,Wednesday,Nick Lester,13,North Central MA,19285,"12 Leominster Rd Shirley,  MA 01464",Boiler Maintenance,28,Age Critical,STANDBY,Standby for WED-NICK-07 — fires if active job cancels
+WED-PATRICK-08,Wednesday,Patrick Hanson,08,South Shore MA,17875,"15 Albany Street Quincy, Quincy MA 02170",Vent / Trap / Repair,164,Age Critical,ACTIVE,Wednesday — Age Critical
+WED-PATRICK-08,Wednesday,Patrick Hanson,08,South Shore MA,18154,79 Governors Rd Milton MA 02186,Castrads New Radiator(s),137,Age Critical,ACTIVE,Wednesday — Age Critical
+WED-PATRICK-08,Wednesday,Patrick Hanson,08,South Shore MA,19284,"17 Pleasant St. Plymouth, Plymouth MA 02360",Boiler Maintenance,28,,ACTIVE,Wednesday
+WED-PATRICK-08,Wednesday,Patrick Hanson,08,South Shore MA,19357,"28 Allerton Street Plymouth, Plymouth MA 02360",Boiler Maintenance,27,,ACTIVE,Wednesday
+WED-PATRICK-08,Wednesday,Patrick Hanson,08,South Shore MA,19397,3 Wood St  Plymouth   A  2360,Boiler Maintenance,25,,ACTIVE,Wednesday
+WED-PATRICK-08,Wednesday,Patrick Hanson,08,South Shore MA,19429,"95 Main Street Marshfield, Marshfield MA 02050",Boiler Maintenance,22,,ACTIVE,Wednesday
+WED-PATRICK-08,Wednesday,Patrick Hanson,08,South Shore MA,19438,"425 North Franklin St Holbrook, Holbrook MA 02343",Vent / Trap / Repair,21,,ACTIVE,Wednesday
+WED-PATRICK-08,Wednesday,Patrick Hanson,08,South Shore MA,19525,26 Union St Pembroke MA 02359,Steam System Inspection,10,,ACTIVE,Wednesday
+WED-PATRICK-08,Wednesday,Patrick Hanson,23,Lawrence MA,19392,495 Main St West Newbury MA 01985,Boiler Maintenance,25,Priority,STANDBY,Standby for WED-PATRICK-08 — fires if active job cancels
+WED-PATRICK-08,Wednesday,Patrick Hanson,13,North Central MA,19505,85 Monadnock St Fitchburg MA 01420,Boiler Maintenance,14,Priority,STANDBY,Standby for WED-PATRICK-08 — fires if active job cancels
+WED-RANNY-17,Wednesday,Ranny Lim,17,Connecticut,17879,20 Linden St Manchester CT 06040,Boiler Maintenance,164,Age Critical,ACTIVE,Wednesday — Age Critical
+WED-RANNY-17,Wednesday,Ranny Lim,17,Connecticut,18734,175 Circular Ave Hamden CT 06514,Boiler Maintenance,72,,ACTIVE,Wednesday
+WED-RANNY-17,Wednesday,Ranny Lim,17,Connecticut,18999,128 Pleasant St Apt 1 New Britain CT 06051,Steam System Inspection,46,,ACTIVE,Wednesday
+WED-RANNY-17,Wednesday,Ranny Lim,17,Connecticut,19351,96 Middlebury Terrace Middlebury CT 06762,Boiler Maintenance,27,,ACTIVE,Wednesday
+WED-RANNY-17,Wednesday,Ranny Lim,17,Connecticut,19522,"19 Wayland Street North Haven, North Haven CT 06473",Boiler Maintenance,11,,ACTIVE,Wednesday
+WED-RANNY-17,Wednesday,Ranny Lim,16,NH Seacoast,18136,651 Grove Street Manchester NH 03103,Boiler Maintenance,139,,STANDBY,Standby for WED-RANNY-17 — fires if active job cancels
+WED-RANNY-17,Wednesday,Ranny Lim,12,Cape Cod,18133,57 Pleasant St Yarmouth MA 02664,Steam System Inspection,139,,STANDBY,Standby for WED-RANNY-17 — fires if active job cancels
+—,—,—,01,Providence RI,19231,9 Hollywood Rd Apt 2 Providence RI 02909,Boiler Maintenance,29,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19229,70 Shaw St Rumford RI 02916,Boiler Maintenance,29,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19254,92 Marbury Avenue Pawtucket RI 02860,Boiler Maintenance,29,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19340,"76 Spring St, Pawtucket, RI 0  86 , USA",Boiler Maintenance,28,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19295,46 Webb Street Providence RI 02908,Boiler Maintenance,28,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19317,"32 Glen Ave Cranston,  RI 02905",Boiler Maintenance,28,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19304,655 Pleasant Valley Pkwy Providence RI 02908,Boiler Maintenance,28,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19334,15 Saxonia Rd Cranston RI 02920,Boiler Maintenance,28,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19312,"51 Clifsdale Ave Cranston,   RI 02905",Boiler Maintenance,28,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19303,"78 Sefton Drive  Cranston,   I  2905",Boiler Maintenance,28,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19301,"76 Lorimer Ave, Providence,  RI 02906",Boiler Maintenance,28,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19299,"11 Roberts Circle Cranston,   RI 02905",Boiler Maintenance,28,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19277,230 Lafayette St Pawtucket RI 02860,Boiler Maintenance,28,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19265,"64 South Atlantic Ave Warwick,   RI 02888",Boiler Maintenance,28,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19372,81 Parade Street  Providence R     02909,Boiler Maintenance,27,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19356,103 Lorimer Avenue Providence RI 02906,Boiler Maintenance,27,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19370,50 Foster Street Pawtucket RI 02861,Boiler Maintenance,27,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19388,"120 Marbury Ave Pawtucket,  RI 02860",Boiler Maintenance,26,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19383,62 Humboldt Ave Providence RI 02906,Boiler Maintenance,26,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19393,"106 Norwood Ave Cranston,   RI 02905",Boiler Maintenance,25,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19412,393 Morris Ave Providence RI 02906,Boiler Maintenance,24,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19405,"193 Shaw Avenue  Cranston,   RI 02905",Boiler Maintenance,24,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19452,73 Gray St Providence RI 02909,Boiler Maintenance,20,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19455,33 Capitol View Avenue North Providence RI 02908,Boiler Maintenance,19,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19493,96 Bluff Avenue Cranston RI 02905,Boiler Maintenance,16,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19517,23 Ansel Avenue Providence RI 02907,Boiler Maintenance,12,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19516,10 Canonchet St Providence RI 02908,Boiler Maintenance,12,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19536,187 Vinton Street #2 Providence RI 02909,Boiler Maintenance,9,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19578,130 Grand Ave Cranston RI 02905,Boiler Maintenance,2,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19587,110 Post Road Warwick RI 02888,Boiler Maintenance,1,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19594,24 Callan St Providence RI 0290802908,Boiler Maintenance,0,,HOLD,Hold for next week
+—,—,—,01,Providence RI,19596,157 W Clifford St. Providence RI 02907,Boiler Maintenance,0,,HOLD,Hold for next week
+—,—,—,03,Plymouth MA,19423,"20 Morton St Canton, Canton MA 02021",Service Call,22,,HOLD,Hold for next week
+—,—,—,03,Plymouth MA,19499,"22 Maple Avenue Kingston,  Kingston MA 02364",Castrads New Radiator(s),15,,HOLD,Hold for next week
+—,—,—,03,Plymouth MA,19513,21 Prospect Street Middleborough MA 02346,Boiler Maintenance,13,,HOLD,Hold for next week
+—,—,—,05,South RI,19251,1640 South Road Kingston RI 02881,Boiler Maintenance,29,,HOLD,Hold for next week
+—,—,—,06,NW RI / CT,19308,33 Bassett Hill Road Woodstock CT 06281,Boiler Maintenance,28,,HOLD,Hold for next week
+—,—,—,09,Newton / Westwood,19404,181 Canton St Westwood MA 02090-2203,Boiler Maintenance,24,,HOLD,Hold for next week
+—,—,—,09,Newton / Westwood,19453,31 Cabot St  Newton   A  2458,Boiler Maintenance,20,,HOLD,Hold for next week
+—,—,—,09,Newton / Westwood,19583,62 Child St Hyde Park MA 02136,Boiler Maintenance,1,,HOLD,Hold for next week
+—,—,—,11,Medford / Malden,19593,86 Winthrop St Medford MA 02155,Steam System Inspection,0,,HOLD,Hold for next week
+—,—,—,12,Cape Cod,19008,338 Elm Road Falmouth MA 02540,Steam System Inspection,45,,HOLD,Hold for next week
+—,—,—,14,Boston,19302,"37 Bay State Road Boston,   MA 02215",Boiler Maintenance,28,,HOLD,Hold for next week
+—,—,—,14,Boston,19391,16 Blake St Cambridge MA 02140,Boiler Maintenance,25,,HOLD,Hold for next week
+—,—,—,14,Boston,19437,55 St Stephen St Boston MA 02115,Boiler Maintenance,21,,HOLD,Hold for next week
+—,—,—,14,Boston,19456,"73 Perry Street Brookline,   MA 02446",Boiler Maintenance,19,,HOLD,Hold for next week
+—,—,—,14,Boston,19510,42 Linnaean St Cambridge MA 02138,Steam System Inspection,14,,HOLD,Hold for next week
+—,—,—,15,North Shore MA,19541,8 Ocean View Rd Swampscott MA 01907,Steam System Inspection,9,,HOLD,Hold for next week
+—,—,—,16,NH Seacoast,18239,191 Pollard Rd Lincoln NH 03251,Steam System Inspection,130,,HOLD,Hold for next week
+—,—,—,16,NH Seacoast,18430,210 Young St Manchester NH 03103,Boiler Maintenance,109,,HOLD,Hold for next week
+—,—,—,16,NH Seacoast,18501,94 Emerson Ave Hampstead NH 03841,Steam System Inspection,101,,HOLD,Hold for next week
+—,—,—,16,NH Seacoast,18621,123 Riley Avenue Manchester NH 03103,Steam System Inspection,86,,HOLD,Hold for next week
+—,—,—,16,NH Seacoast,18707,28 Atlantic Ave Dover NH 03820,Boiler Maintenance,75,,HOLD,Hold for next week
+—,—,—,16,NH Seacoast,18740,"56 Happy Valley Rd. Taftsville, VT (near White River Junction) NH 05073",Steam System Inspection,72,,HOLD,Hold for next week
+—,—,—,16,NH Seacoast,18744,40 Trinity St Manchester NH 03109,Steam System Inspection,71,,HOLD,Hold for next week
+—,—,—,16,NH Seacoast,18754,36 Broadway Concord NH 03301,Steam System Inspection,70,,HOLD,Hold for next week
+—,—,—,16,NH Seacoast,18830,123 B Street Manchester NH 03102,Steam System Inspection,63,,HOLD,Hold for next week
+—,—,—,16,NH Seacoast,19108,195 Linden Street Manchester NH 03104,Steam System Inspection,32,,HOLD,Hold for next week
+—,—,—,16,NH Seacoast,19234,51 Main St Ashland NH 03222,Boiler Maintenance,29,,HOLD,Hold for next week
+—,—,—,16,NH Seacoast,19330,41-43 Central Street Haverhill NH 03785,Boiler Maintenance,28,,HOLD,Hold for next week
+—,—,—,16,NH Seacoast,19282,"4 Prince Pl, Newburyport,  MA 01950",Boiler Maintenance,28,,HOLD,Hold for next week
+—,—,—,16,NH Seacoast,19287,108 Rumford St Concord NH 03301,Boiler Maintenance,28,,HOLD,Hold for next week
+—,—,—,21,Holyoke / Springfield,19032,107 Lincoln St. Holyoke MA 01040,Steam System Inspection,36,,HOLD,Hold for next week
+—,—,—,23,Lawrence MA,19535,19 Milton St. Lawrence MA 01841,Steam System Inspection,9,,HOLD,Hold for next week

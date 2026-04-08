@@ -1,0 +1,29 @@
+Section,Label,Value
+WEEK,Week Of,2025-01-06
+WEEK,Season,Heat Cycle
+WEEK,Blocked Days,"Friday, Thursday"
+WEEK,Routes Built,12
+,,
+TOTALS,Total Jobs,180
+TOTALS,Active,92
+TOTALS,Standby,24
+TOTALS,Hold,64
+,,
+BY DAY,Monday,32
+BY DAY,Tuesday,32
+BY DAY,Wednesday,28
+BY DAY,Thursday [blocked],0
+BY DAY,Friday [blocked],0
+,,
+BY ROUTE,MON-PATRICK-01  Monday / Patrick Hanson / Providence RI,Active: 8   Standby: 2
+BY ROUTE,MON-NICK-16  Monday / Nick Lester / NH Seacoast,Active: 8   Standby: 2
+BY ROUTE,MON-JOVAN-14  Monday / Jovan Lopez / Boston,Active: 8   Standby: 2
+BY ROUTE,MON-RANNY-09  Monday / Ranny Lim / Newton / Westwood,Active: 8   Standby: 2
+BY ROUTE,TUE-PATRICK-11  Tuesday / Patrick Hanson / Medford / Malden,Active: 8   Standby: 2
+BY ROUTE,TUE-NICK-15  Tuesday / Nick Lester / North Shore MA,Active: 8   Standby: 2
+BY ROUTE,TUE-JOVAN-04  Tuesday / Jovan Lopez / Worcester MA,Active: 8   Standby: 2
+BY ROUTE,TUE-RANNY-10  Tuesday / Ranny Lim / Lexington / Arlington,Active: 8   Standby: 2
+BY ROUTE,WED-PATRICK-08  Wednesday / Patrick Hanson / South Shore MA,Active: 8   Standby: 2
+BY ROUTE,WED-NICK-07  Wednesday / Nick Lester / MetroWest MA,Active: 8   Standby: 2
+BY ROUTE,WED-JOVAN-02  Wednesday / Jovan Lopez / South Coast MA,Active: 7   Standby: 2
+BY ROUTE,WED-RANNY-17  Wednesday / Ranny Lim / Connecticut,Active: 5   Standby: 2
